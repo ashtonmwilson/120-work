@@ -3,20 +3,21 @@ Ashton Wilson
 
 Week 2 Response:
 --
-This week I did homework consisting of installing packages to assist in workflow while editing in atom. I also spent time connecting to git and committing modifications. I made some individual choices to spend a bit more time on work than school, and am playing *catch-up* yet again.
+This week I did homework consisting of installing packages to assist in workflow while editing in atom. I also spent time connecting to git and committing modifications. I made some individual choices to spend a bit more time on work than school, and am playing *catch-up*.
 
 Steps I took:
 --
-1. delete old repo  content on my github.
-2. Start reading the beginning mage (thicc)
+1. Delete old repo content on my github.
+2. Start reading the beginning mage.
 3. Return to the course site.
-4. complete walkthrough.
-5. study markdown.
+4. Complete walkthrough.
+5. Finalise this document (meta).
+5. Study markdown.
 
 Issues encountered:
 --
 * Limited time allocated for school this week.
-* challenges connecting folder to github desktop.
+* Challenges connecting folders to github desktop.
 
 ##### Solutions:
 I have allocated more time for school work in the coming weeks. I deleted the old folder created in terminal and followed the courses directions to create a new repo using the github desktop application.
@@ -31,6 +32,7 @@ I helped my fellow classmates locate the [_Unix for the beginning mage_](http://
 
 ### Stellar Screenshot:
 ![Image of my editor](name-of-the-image-file.png)
+
 
 <br/> Here's some inline
 <br/> code in action.
