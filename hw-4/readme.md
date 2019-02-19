@@ -1,4 +1,4 @@
-#Self Portrait
+Self Portrait
 ==
 [ My Working "Self Portrait" Sketch](https://ashtonmwilson.github.io/120-work/hw-4/)
 
