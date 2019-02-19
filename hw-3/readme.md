@@ -6,7 +6,7 @@ Week 3 Response:
 --
 This week I did homework consisting of learning the basice of the p5js entry code, including the functions for creating a canvas, text, background, elipse, including some color and size specifications. I am getting caught up and have a couple questions I am excited to engage with the class on in the coming week. I am enrolled in both webdesign classes and am wondering if I am going to have to re link my "live" page to each repo as home work comes due, and if that will impact others ability to access my work. Moving forward I hope I can also be a resource to others in need, as I feel that I am digesting the content decently.
 <br/>
-I also learned a bit about the src tags within the index.html document and their role when incorporating p5.js. 
+I also learned a bit about the src tags within the index.html document and their role when incorporating p5.js.
 
 
 
